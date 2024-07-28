@@ -1,16 +1,16 @@
 Hi, my name is James Gardner <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"  width=3.5% height=3.5%>
 =====================================================================================================================================
 
-Third Year MSci Computer Science Student at Lancaster University
+Final Year MSci Computer Science Student at Lancaster University
 ----------------------------------------
 
 ### About Me:
 
 * 🌍  I'm based in the UK
 * 🖥️  See my portfolio at [jgardner01.github.io](http://jgardner01.github.io/)
-* 🧠  I'm currently learning Distributed Systems, Internet Applications Engineering and Artificial Intelligence
+* 🧠  I am currently working on developing my portfolio 
 * 🎓  I graduate summer 2025
-* 👨‍💻  I am open to 2024 summer internships in software engineering
+* 👨‍💻  I am open to graduate software engineering jobs
 
 ### Skills
 
