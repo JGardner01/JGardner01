@@ -8,7 +8,7 @@ Final Year MSci Computer Science Student at Lancaster University
 
 * 🌍  I'm based in the UK
 * 🖥️  See my portfolio at [jgardner01.github.io](http://jgardner01.github.io/)
-* 🧠  I am currently learning Research Methods, Elements of Distributed Systems, Innovations in Interactive Computing and Data Mining. 
+* 🧠  I am working as an intern for Lancashire Teaching Hospitals NHS Foundation Trust. 
 * 🎓  I graduate summer 2025
 * 👨‍💻  I am looking for graduate software engineering jobs
 
