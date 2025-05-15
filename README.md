@@ -1,4 +1,4 @@
-Hi, my name is James Gardner <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"  width=3.5% height=3.5%>
+Hi, my name is James Gardner
 =====================================================================================================================================
 
 Final Year MSci Computer Science Student at Lancaster University
