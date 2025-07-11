@@ -1,16 +1,16 @@
-Hi, my name is James Gardner
+Hi, I'm James Gardner
 =====================================================================================================================================
 
-Final Year MSci Computer Science Student at Lancaster University
+MSci Computer Science Graduate | Software Engineer
 ----------------------------------------
 
 ### About Me:
 
-* 🌍  I'm based in the UK
-* 🖥️  See my portfolio at [jgardner01.github.io](http://jgardner01.github.io/)
-* 🧠  I am working as an intern for Lancashire Teaching Hospitals NHS Foundation Trust. 
-* 🎓  I graduate summer 2025
-* 👨‍💻  I am looking for graduate software engineering jobs
+* 🌍  Based in the UK
+* 🎓  Graduated with First Class Honours degree in MSci Computer Science from Lancaster University (July 2025)
+* 🧠  Recent intern for Lancashire Teaching Hospitals NHS Foundation Trust
+* 💼  Actively seeking graduate software engineering roles
+* 🖥️  Explore my portfolio at [jgardner01.github.io](http://jgardner01.github.io/)
 
 ### Skills
 
